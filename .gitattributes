@@ -1,2 +1,9 @@
-* linguist-language=Java
-"Software Development Lifecycle" linguist-language=Java
+# * linguist-language=Java
+# "Software Development Lifecycle" linguist-language=Java
+*.md linguist-vendored=false
+*.md linguist-generated=false
+*.md linguist-documentation=false
+*.md linguist-detectable=true
+*.md linguist-language=Markdown
+*.md linguist-language=markdown
+"Software Development Lifecycle" linguist-language=Markdown
