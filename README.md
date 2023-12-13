@@ -13,6 +13,9 @@
 </p>
 <p align="center">
   <a href="#introduction">Introduction</a> • <a href="#application-features">Application Features</a> • <a href="#roles-documentation">Roles and Documentation</a> • <a href="#license">License</a> • <a href="#contact">Contact</a>
+</p><hr>
+<p align="center">
+  <a href="#user-needs">Interpreting User Neeeds</a> • <a href="#development-approach">Development Approach</a> • <a href="#good-team-mate">What Is A Good Team Member?</a>
 </p>
 <hr>
 <p align="center">
@@ -23,9 +26,19 @@
 
 <h2 id="introduction">Introduction</h2>
 <p><p>This project explores and highlights the various roles within the Software Development Life Cycle (SDLC). It provides an informative view on how different professionals contribute to software development.</p></p>
-
+<hr>
 <h2 id="roles-documentation">Roles and Documentation</h2>
 
+<h3 id="user-needs">Interpreting User Needs</h3>
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+<br>
+<h3 id="development-approach">Development Approach</h3>
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+<br>
+<h3 id="good-team-mate">What Is A Good Team Member?</h3>
+What does it mean to be a good team member in software development?
+<br>
+<hr>
 <h3 id="developer">Developer</h3>
 <ul>
     <li>Responsibilities and skills of a Developer in SDLC.</li>
