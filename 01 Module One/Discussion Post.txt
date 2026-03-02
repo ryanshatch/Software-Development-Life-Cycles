@@ -1,0 +1,55 @@
+Hello class, my name is Ryan and I am studying for my bachelors in computer science. I am very passionate about cyber security and hope to land a job doing something I prefer. If I could have life my way, there would be a Department of Defense program where scam baiting goes mainstream and my job would consist of assisting in gaining recon by social engineering scammers out of their crypto wallet addresses to parse along for further analysis.
+
+The Waterfall development model is often criticized for being inflexible and slow. It's hard to make changes once a phase is done, and testing is often delayed until the end of the project. This can lead to finding problems too late, when they're expensive and time consuming to fix. Plus, clients aren't usually involved much, so the final product may not meet their needs.
+
+The Agile methodology addresses these problems by being flexible, testing early and often, and keeping clients involved throughout the development process. Agile projects are broken down into small, iterative cycles, so teams can adapt to change and make improvements quickly. Continuous testing and integration help to identify and fix problems early on, before they become bigger and more expensive to fix. And regular client feedback helps to make sure that the final product is catered towards the clients needs in order to successfully meet their expectations.
+
+The most impactful aspects of Agile in resolving these issues are its iterative development process, continuous testing and integration, and emphasis on client collaboration.
+
+
+1-1 Discussion: Introductions & Models
+
+Reply One:
+
+1-1 Discussion
+Jennifer Lee posted Oct 28, 2023 4:19 PM
+This page automatically marks posts as read as you scroll.Adjust automatic marking as read setting
+Greetings to all!
+
+I'm Jennifer, currently pursuing my second Bachelor's degree, this time in Computer Science. I work in the healthcare field (specifically, a medical insurance company) and have been independently studying coding and programming languages such as Python, Java, SQL, C++, JavaScript, HTML, and CSS. Although I lack formal work experience in the field, I'm enthusiastic about furthering my knowledge and skills in computer science.
+
+Issues with Waterfall Development Model:
+
+Based on my experience and the readings in the modules, I have observed several issues with the waterfall development model. The Waterfall's rigid, linear approach means all project requirements have to be understood and defined from the start. This is problematic, particularly in the dynamic and rapidly changing healthcare industry where regulations, customer demands, and technologies frequently change. Furthermore, the Waterfall model's "finish one phase before moving on" approach can lead to long development cycles. This can slow down the delivery of solutions to problems and slow down the response to emerging issues.
+
+How Agile Methodology Resolves these Issues:
+
+There is no doubt that Agile methodology offers an effective solution to the challenges posed by Waterfall model. As agile emphasizes flexibility and adaptability, it is well suited for the fast-paced, constantly evolving nature of the healthcare sector. It divides projects into smaller, manageable iterations or sprints that can be quickly adapted to changing market conditions and requirements, allowing us to respond to them rapidly. By using this approach, teams can make adjustments throughout the development process rather than waiting until the end of the process, which reduces the likelihood of making costly changes at a later stage.
+
+Aspects of the Agile Methodology with the Most Impact:
+
+I have found that several aspects of Agile are particularly valuable for addressing issues faced in the healthcare and health insurance sectors. First and foremost, Agile's iterative development approach ensures that software solutions are delivered incrementally, thereby delivering value to users at an earlier stage of the development. This early and continuous value delivery is invaluable in an industry where swift responses to regulatory changes and customer needs are crucial. Another significant benefit of Agile development is the focus on close collaboration with stakeholders, which allows the developed software to align closely with the ever-changing needs of healthcare and medical insurance, enabling rapid adaptation and increasing customer satisfaction.
+
+In summary, Agile's strengths are its adaptability, incremental delivery, and customer collaboration, which makes it ideal methodology for the healthcare and medical insurance industries, where maintaining regulatory compliance and meeting customers' needs are vital.
+
+Ryan Hatch
+2 hours agoLast edited: Sunday, October 29, 2023 7:45 AM EDT
+Hello Jennifer, I can also agree that the waterfall method can be quite a dangerous selection. If you want to go and modify, reformat, fix, etc. the task will be virtually impossible. Not entirely impossible, but in some cases it might be beyond a nightmare to incorporate any changes and still maintain the same functionality. Its like un sweetening your coffee by taking the dissolved sugar out; the best bet is to probably just start over.
+
+
+Reply Two:
+
+1-1 Discussion: Introductions & Models
+Peter Gallegos posted Oct 25, 2023 5:08 PM
+
+Hello everyone, my name is Peter, and I'm studying to get my degree in programming and make my life better for a better future for myself and my small animal family.
+
+The waterfall is very straightforward and basic.  It does not allow one to go back; you are not with a team by yourself and can't go back to test code for mistakes.  Since the agile method uses small teams working independently, they can fix this issue.  Smaller teams are better because the code can be created in smaller bits.
+
+
+Ryan Hatch
+just now
+
+Hello there Peter,
+
+I do agree that the waterfall method is over simplified and can be fixed by the agile method. The waterfall method makes it hard to make any changes after the project has already started. When new information becomes available and the requirements start to change, the program is unable to adapt to any of those new changes. As these changes can not be applied to satisfy the new requirements using the waterfall method, I would agree that using small teams who work in sprints and utilize the agile method would be much more beneficial and less detrimental towards the development and end result of the program along with the satisfaction for the client. This method will make sure that their needs and expectations are consistently being met and brought to life as they envision it.
