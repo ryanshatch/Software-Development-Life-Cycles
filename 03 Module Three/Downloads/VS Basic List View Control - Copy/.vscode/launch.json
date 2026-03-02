@@ -1,0 +1,51 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TopDestinationList",
+            "request": "launch",
+            "mainClass": "TopDestinationList",
+            "projectName": "Basic List View Control"
+        },
+        {
+            "type": "java",
+            "name": "TopDestinationListFrame",
+            "request": "launch",
+            "mainClass": "TopDestinationListFrame",
+            "projectName": "Basic List View Control",
+            "noDebug": false,
+            "__progressId": "2f7e36b2-8788-492c-966b-f61fa773c657",
+            "__origin": "internal"
+        },
+        {
+            "type": "java",
+            "name": "TopFiveDestinationList",
+            "request": "launch",
+            "mainClass": "TopFiveDestinationList",
+            "projectName": "Basic List View Control"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/app.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Attach to Edge",
+            "port": 8080,
+            "request": "attach",
+            "type": "msedge",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Launch Edge",
+            "request": "launch",
+            "type": "msedge",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
